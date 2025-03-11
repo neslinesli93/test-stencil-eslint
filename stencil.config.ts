@@ -1,7 +1,7 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'diofa',
+  namespace: 'test-stencil-eslint',
   outputTargets: [
     {
       type: 'dist',
